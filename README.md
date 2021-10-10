@@ -4,4 +4,4 @@
 
 This repository contains the base python code to create a dataset in a pre-decided format and the tableau dashboard that takes it as an input. The dashboard title is updated to reflect 21/22 season. 
 
-I am planning to more information to this and I will update it as I build them. I am interested in collaborating with like-minded folks. You can reach me on [LinkedIn](www.linkedin.com/in/lexmankumar). Feel free to ping me if you want to discuss potential ways in which this can be made better or anything for that matter.
+I am planning to more information to this and I will update it as I build them. I am interested in collaborating with like-minded folks. You can reach me on [LinkedIn](www.linkedin.com/in/lexmankumar). Feel free to ping me if you would like to discuss potential ways in which this can be made better or anything for that matter.
